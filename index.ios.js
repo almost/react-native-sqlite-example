@@ -177,7 +177,7 @@ var Track = React.createClass({
   render: function () {
     return (
       <View style={styles.wrapper}>
-        <Text>{this.state.track.Name} composed by {this.state.track.Composer} is {this.state.track.Miliseconds}</Text>
+        <Text>{this.state.track.Name} composed by {this.state.track.Composer || 'unknown'} is {this.state.track.Milliseconds}ms long</Text>
       </View>
     );
   },
