@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1A2BED6F-1230-4642-913A-459F49A1437D</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>43D4496BCEABC764DF53F957D4B9B13FB2A2C980</key>
+		<string>github.com:almost/react-native-sqlite.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>43D4496BCEABC764DF53F957D4B9B13FB2A2C980</key>
+		<string>react-native-sqlite/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:almost/react-native-sqlite.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>43D4496BCEABC764DF53F957D4B9B13FB2A2C980</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>43D4496BCEABC764DF53F957D4B9B13FB2A2C980</string>
+			<key>IDESourceControlWCCName</key>
+			<string>react-native-sqlite</string>
+		</dict>
+	</array>
+</dict>
+</plist>
