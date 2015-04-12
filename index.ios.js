@@ -1,6 +1,5 @@
 /**
- * Sample React Native App
- * https://github.com/facebook/react-native
+ * Example of using react-native-sqlite
  */
 'use strict';
 
