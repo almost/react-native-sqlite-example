@@ -5,7 +5,7 @@
     "start": "node_modules/react-native/packager/packager.sh"
   },
   "dependencies": {
-    "react-native": "^0.3.11",
-    "react-native-sqlite": "0.0.6"
+    "react-native": "^0.4.1",
+    "react-native-sqlite": "0.0.7"
   }
 }
